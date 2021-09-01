@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DedSec-Dalen
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning ruby, php
+- 🌱 I’m currently learning ******
 - 💞️ I’m looking to collaborate on DedSec
 - 📫 How to reach me ... Cannot reach me
 
